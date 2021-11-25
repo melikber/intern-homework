@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaxI/e1oRMsmFQgT0NuHrIDeC+hURjpiQ93Nc5e3UoUl5uNJ2HalKVEux/phZCI+ChPQvuhBBN5AJIs/JzFV1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melik\\OneDrive\\Masaüstü\\SanctionScanner\\SanctionScannerStajOdev\\SanctionScannerStajOdev\\SanctionScannerStajOdev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melik\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}
